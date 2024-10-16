@@ -1,8 +1,7 @@
 ## MAC Layer - Audio Network
 
 ### Introduction
-In this implementation, we use **CSMA-CA** (Carrier Sense Multiple Access with Collision Avoidance), similar to WiFi, with some modifications tailored for our protocol. The demo will be carried out using three laptops, with each node operating independently and communicating based on predefined rules.
-
+In this implementation, we use **CSMA-CA** (Carrier Sense Multiple Access with Collision Avoidance), similar to WiFi, with some modifications tailored for our protocol.
 ### Frame Structure
 Each node is assigned a unique 2-bit address:
 
